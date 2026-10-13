@@ -1,6 +1,6 @@
 # MeowCV
 
-An openCV + mediapipe program that detects facial expressions and displays goated Tiktok cats like Rigby and Larry
+An openCV + mediapipe program that detects facial expressions and displays goated Tiktok cats like Rigby and Larry - Mi copiaaaa
 
 <img src="https://github.com/reinesana/MeowCV/blob/main/assets/cat-disgust.jpeg" width="300">
 
